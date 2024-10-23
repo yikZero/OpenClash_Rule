@@ -17,8 +17,6 @@ DOMAIN-SUFFIX,msftncsi.com
 # 蓝点网
 DOMAIN-SUFFIX,landiannews.com
 DOMAIN-SUFFIX,lancdn.com
-# 5E 对战平台
-DOMAIN-SUFFIX,5eplay.com
 # 松下智能家居
 DOMAIN-SUFFIX,psmartcloud.com
 # FinalShell
@@ -41,3 +39,5 @@ DOMAIN-SUFFIX,dell.com
 DOMAIN-SUFFIX,qunhequnhe.com
 DOMAIN-SUFFIX,kujiale.com
 DOMAIN-KEYWORD,qunhe
+# Ro
+DOMAIN-SUFFIX,yikzero.com
