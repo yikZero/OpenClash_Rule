@@ -42,7 +42,8 @@ DOMAIN-KEYWORD,qunhe
 # Ro
 DOMAIN-SUFFIX,yikzero.com
 # Misaka Emby
-DOMAIN,stream1.misakaf.org
-DOMAIN,stream2.misakaf.org
-DOMAIN,stream3.misakaf.org
-DOMAIN,embyvip.misakaf.org
+DOMAIN-SUFFIX,stream1.misakaf.org
+DOMAIN-SUFFIX,stream2.misakaf.org
+DOMAIN-SUFFIX,stream3.misakaf.org
+DOMAIN-SUFFIX,stream4.misakaf.org
+DOMAIN-SUFFIX,embyvip.misakaf.org
